@@ -8,7 +8,7 @@ This repository contains the projects completed during my MERN Stack Web Develop
 ## 🧠 Internship Details
 - 👨‍💻 Name: Pradeep  
 - 🎓 College: SITAMS, Chittoor  
-- 📅 Duration: 6 Months  
+- 📅 Duration: 3 Months  
 - 💼 Domain: MERN Stack Development  
 
 ---
